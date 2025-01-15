@@ -18,12 +18,12 @@ The proposed system scans the Magnetic Resonance images of brain. The scanning i
  # Algorithms Used
  There are two major areas that we use algorithms. They are:
 
-# Segmentation and Feature Extraction
+## Segmentation and Feature Extraction
 
-# Canny Edge Algorithm
+## Canny Edge Algorithm
 The Canny edge detector is an edge detection operator that uses a multi-stage algorithm to detect a wide range of edges in images.
 
-# Otsu Algorithm
+## Otsu Algorithm
 In computer vision and image processing, Otsu's method, named after Nobuyuki Otsu, is used to automatically perform clustering-based image thresholding, or, the reduction of a gray level image to a binary image. The algorithm assumes that the image contains two classes of pixels following bi-modal histogram (foreground pixels and background pixels), it then calculates the optimum threshold separating the two classes so that their combined spread (intra-class variance) is minimal, or equivalently (because the sum of pairwise squared distances is constant), so that their inter-class variance is maximal.
 
 # PCA Algorithm
